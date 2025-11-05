@@ -19,17 +19,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Hassnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassnain-yaqoob&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassnain-yaqoob&layout=compact&theme=radical)  
-
----
-
-### 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=hassnain-yaqoob&theme=darkhub)  
-
----
-
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassnainyaqoob)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:hassnainyaqoobofficial@gmail.com)
